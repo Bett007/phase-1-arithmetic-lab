@@ -12,3 +12,6 @@ let num4 = num3*3+4;
 let mod = num3%num4;
 
 console.log(mod);
+
+let max = Math.max(12,19,15,3,7,20,17);
+console.log(max);
